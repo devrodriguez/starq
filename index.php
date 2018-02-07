@@ -82,8 +82,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Bienvenido</div>
-                <div class="intro-heading">Hay una razon para que estes aqui</div>
+                <div class="intro-lead-in">Soluciones de tecnologia para tu empresa o proyecto</div>
+                <!--<div class="intro-heading">Hay una razon para que estes aqui</div>-->
                 <a href="#services" class="page-scroll btn btn-xl">Conoce Mas</a>
             </div>
         </div>
@@ -231,7 +231,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Nosotros</h2>
-                    <h3 class="section-subheading text-muted">Conozca como se ha construido nuestra experiencia.</h3>
+                    <h3 class="section-subheading text-muted">Somos un grupo de emprendedores Colombianos que nos esforzamos por crear mejores soluciones de TI que permitan a las empresas ejecutar sus proyectos empresariales apalancados en tecnologia.</h3>
                 </div>
             </div>
             <div class="row">
